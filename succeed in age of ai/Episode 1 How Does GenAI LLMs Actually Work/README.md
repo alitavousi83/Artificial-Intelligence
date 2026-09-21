@@ -1,0 +1,6 @@
+![page1](/succeed%20in%20age%20of%20ai/episode%201/1.jpg)
+![page2](/succeed%20in%20age%20of%20ai/episode%201/2.jpg)
+![page3](/succeed%20in%20age%20of%20ai/episode%201/3.jpg)
+![page4](/succeed%20in%20age%20of%20ai/episode%201/4.jpg)
+![page5](/succeed%20in%20age%20of%20ai/episode%201/5.jpg)
+![page6](/succeed%20in%20age%20of%20ai/episode%201/6.jpg)

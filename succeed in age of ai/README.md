@@ -1,5 +1,7 @@
 # succeed in age of ai 
 
+### prompt engineering pdf  | [prompt engineering pdf](./Prompt%20Engineering%20-%20The%20Complete%20Guide.pdf)
+
 
 ## Episode 1 How Does GenAI LLMs Actually Work
 

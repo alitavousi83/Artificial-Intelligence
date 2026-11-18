@@ -6,22 +6,22 @@
 ## Episode 1 How Does GenAI LLMs Actually Work
 
 ### page1
-![page1](./1.jpg)
+![page1](./pics/1.jpg)
 
 ### page2
-![page2](./2.jpg)
+![page2](./pics/2.jpg)
 
 ### page3 
-![page3](./3.jpg)
+![page3](./pics/3.jpg)
 
 ### page4
-![page4](./4.jpg)
+![page4](./pics/4.jpg)
 
 ### page5
-![page5](./5.jpg)
+![page5](./pics/5.jpg)
 
 ### page6
-![page6](./6.jpg)
+![page6](./pics/6.jpg)
 
 
 ---
@@ -29,21 +29,21 @@
 ## rest of eisodes 
 
 ### page7
-![page7](./7.jpg)
+![page7](./pics/7.jpg)
 
 ### page8
-![page8](./8.jpg)
+![page8](./pics/8.jpg)
 
 
 ### page9
-![page9](./9.jpg)
+![page9](./pics/9.jpg)
 
 ### page10
-![page10](./10.jpg)
+![page10](./pics/10.jpg)
 
 ### page11
-![page11](./11.jpg)
+![page11](./pics/11.jpg)
 
 ### page12
-![page12](./12.jpg)
+![page12](./pics/12.jpg)
 
